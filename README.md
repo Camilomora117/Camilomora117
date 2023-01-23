@@ -1,6 +1,6 @@
 ### Hola! Bienvenido a mi Perfil 👋
 
-Soy estudiante de 8° semestre destacado por mi promedio académico en la Universidad Escuela Colombiana de Ingeniería Julio Garavito, con habilidades en programación, conocimientos basicos en desarrollo Web y uso de metodologías ágiles cómo Scrum.
+Soy estudiante de 10° semestre destacado por mi promedio académico en la Universidad Escuela Colombiana de Ingeniería Julio Garavito, con habilidades en programación, conocimientos basicos en desarrollo Web y uso de metodologías ágiles cómo Scrum.
 
 Actualmente:
 
